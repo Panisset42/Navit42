@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Navit42
+- 👀 I’m interested in lern the basics of programation
+- 🌱 I’m currently learning C# / DotNet; lookin on became a back ending dev on the future
+- 💞️ I’m looking to collaborate on... Actualy i'm not looking for nothing 
+- 📫 How to reach me lucas.panisset4@gmail.com
